@@ -1,2 +1,2 @@
-# Turing-machine-to-generalized-shift-map
-This program convert Turing machines to generalized shift maps, and simulate these maps.
+# Chaotic-behavior-of-Turing-machines
+The program 'simulate_tm.cc' convert Turing machines to generalized shift maps, and simulate these maps.
